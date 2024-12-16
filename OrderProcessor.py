@@ -1,5 +1,5 @@
 """
-Use Copilot to improve code coverage. I want to ensure that the OrderProcessor class is structured in a way that makes it easier to test all possible branches and exceptions. Please refactor the code to separate concerns and reduce complexity.
+This module contains the OrderProcessor class which is responsible for processing orders.
 """
 
 class OrderProcessor:
