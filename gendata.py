@@ -73,18 +73,7 @@ def plot_data(data):
     plt.ylabel('f(x)')
     plt.show()
 
-"""
-Create a 'main' function that generates data points and plots them.
-Arguments:
-- None
-Returns:
-- None
-Details:
-- Generate 100 data points with x values between 0 and 100 using the default function.
-- Plot the data points using the 'plot_data' function.
-Examples:
-- main()
-"""
+
 
 def main():
     data = gendata((10, 100))
