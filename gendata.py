@@ -87,9 +87,6 @@ Examples:
 """
 
 def main():
-    data = gendata((0, 100))
+    data = gendata((10, 100))
     plot_data(data)
 
-# Call the main function to generate data points and plot them
-if __name__ == "__main__":
-    main()
