@@ -3,14 +3,22 @@
 
 # pull changes from remote repository, stage all changes, commit changes with message 'Updated', push changes to remote repository on branch 'main'.
 
+# pull changes from remote repository
 git pull origin main
 
-git add .
+# stage all changes
+git stage .
 
-git commit -m "Update"
+# commit changes with message 'Updated'
+git commit -m "Synced changes"
 
+# push changes to remote repository on branch 'main'
 git push origin main
 
-echo "Changes synced successfully!"
+# Echo a message to the console indicating that the sync is complete
+echo "Sync complete"
+
+
+
 
 

@@ -1,3 +1,7 @@
+<!--
+
+-->
+
 # Welcome to the GitHub Copilot Developer Training
 
 Instructor: Andrew Scoppa
